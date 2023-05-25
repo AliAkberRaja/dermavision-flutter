@@ -1,0 +1,89 @@
+{
+  "Melanoma": {
+    "Advice": "Consult with cosmetologist/dermatologist",
+    "Condition": "cutaneous melanoma",
+    "Diagnosis": "Requires Medical Checkup and Dermatoscopy",
+    "Name": "Melanoma",
+    "Risk": "Melanoma, the most serious type of skin cancer, develops in the cells (melanocytes) that produce melanin the pigment that gives your skin its color.",
+    "Threat": "High",
+    "Treatment": "surgical removal, or excision, of the primary melanoma on the skin."
+  },
+  "Actinic keratosis": {
+    "Advice": "If you have more than 1 patch causing you problems such as pain and itchiness, treatment is usually recommended.",
+    "Condition": "solar keratoses",
+    "Diagnosis": "dry scaly patches of skin that have been damaged by the sun",
+    "Name": "Actinic keratosis",
+    "Risk": "The patches are not usually serious. But there's a small chance they could become skin cancer, so it's important to avoid further damage to your skin.",
+    "Threat": "Medium",
+    "Treatment": "prescripted creams and gels, freezing the patches (cryotherapy), photodynamic therapy (PDT)."
+  },
+  "Basal cell carcinoma": {
+    "Advice": "Consult with cosmetologist/dermatologist",
+    "Condition": "Nodular carcinoma",
+    "Diagnosis": "Requires Medical Checkup and Dermatoscopy",
+    "Name": "Basal cell carcinoma",
+    "Risk": "For most people, basal cell carcinoma is not life-threatening. This skin cancer tends to grow slowly. It spreads to other body part if left untreared.",
+    "Threat": "Medium",
+    "Treatment": "Curettage and electrodesiccation (electrosurgery),Radiation therapy, Excisional surgery."
+  }
+,
+  "Dermatofibroma": {
+    "Advice": "Consult with cosmetologist/dermatologist",
+    "Condition": "benign fibrous histiocytomas",
+    "Diagnosis": "Requires Dermatoscopy",
+    "Name": "Dermatofibroma",
+    "Risk": "A dermatofibroma is harmless and seldom causes any symptoms. Usually, only reassurance is needed.",
+    "Threat": "Low",
+    "Treatment": "Diagnostic excision or skin biopsy is undertaken if there is rapid enlargement."
+  },
+  "Vascular lesion": {
+    "Advice": "Consult with cosmetologist/dermatologist",
+    "Condition": "Hemangiomas",
+    "Diagnosis": "Does not require immediate checkup",
+    "Name": "Vascular lesion",
+    "Risk": "Vascular lesion are the mostly unrisky type of vascular lesion in children They are benign, or noncancerous, tumors of the cells that line blood vessels. ",
+    "Threat": "Low",
+    "Treatment": "Patients may be placed on medications such as oral corticosteroids like prednisone or propranolol."
+  }
+,
+  "Acne": {
+    "Advice": "Consult with a dermatologist for proper diagnosis and treatment",
+    "Condition": "Acne Vulgaris",
+    "Diagnosis": "Clinical evaluation by a dermatologist",
+    "Name": "Acne",
+    "Risk": "Acne can lead to scarring and have a significant impact on a person's self-esteem.",
+    "Threat": "Moderate",
+    "Treatment": "Treatment options include topical creams, oral medications, and lifestyle changes such as maintaining a proper skincare routine and avoiding certain triggers."
+
+  },
+
+  "Eczema": {
+    "Advice": "Consult with a cosmetologist/dermatologist",
+    "Condition": "Atopic dermatitis",
+    "Diagnosis": "Requires medical checkup and dermatoscopy",
+    "Name": "Eczema",
+    "Risk": "Eczema can be associated with other allergic conditions such as asthma and hay fever.",
+    "Threat": "High",
+    "Treatment": "Topical corticosteroids, moisturizers, antihistamines, and avoiding triggers that can worsen symptoms."
+  }
+,
+  "Melanocytic nevus": {
+    "Advice": "Regularly monitor the nevus and consult with a dermatologist if there are any changes",
+    "Condition": "Benign skin lesion",
+    "Diagnosis": "Can be diagnosed through visual examination and dermoscopy",
+    "Name": "Melanocytic nevus",
+    "Risk": "Melanocytic nevi are generally harmless, but they can rarely develop into melanoma.",
+    "Threat": "Low",
+    "Treatment": "Most melanocytic nevi do not require treatment. However, if there are any concerning features, the nevus may be removed surgically."
+  }
+,
+  "Unknown": {
+    "Advice": "Consult with cosmetologist/dermatologist",
+    "Condition": "null",
+    "Diagnosis": "Could not Detect the disease",
+    "Name": "Unknown",
+    "Risk": "null",
+    "Threat": "null",
+    "Treatment": "null"
+  }
+}

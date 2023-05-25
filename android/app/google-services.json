@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "338165476935",
+    "firebase_url": "https://dermavision-login-default-rtdb.firebaseio.com",
+    "project_id": "dermavision-login",
+    "storage_bucket": "dermavision-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338165476935:android:2de78ea63c9b793d230b62",
+        "android_client_info": {
+          "package_name": "com.example.derma_vision"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338165476935-ktp811fnjliesrs9rc5bsd48abermjpj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.derma_vision",
+            "certificate_hash": "2f410ab5a74a6c09aba4253d6cdcb26de0951242"
+          }
+        },
+        {
+          "client_id": "338165476935-kcsru16dlv38kkvfniu7dqch02mnq93u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCefaG6mzNR5Mp04II20s1gulQ8EnsNX70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338165476935-kcsru16dlv38kkvfniu7dqch02mnq93u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
